@@ -1,2 +1,2 @@
 # ROM
-Narisal bom grafe, tortni diagram za spremembe temperature v Sloveniji v zadnjih 100 letih.
+Narisal bom grafe, tortni diagram... za spremembo temperature v Sloveniji v zadnjih 100 letih.
