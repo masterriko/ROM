@@ -1,2 +1,2 @@
 # ROM
-Narisal bom grafe, tortni diagram... za spremembo temperature v Sloveniji v zadnjih 100 letih.
+naredil bom nalogo iz mature (jesenski rok 2017), o optiki, nihanju in valovanju.
